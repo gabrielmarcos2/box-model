@@ -1,40 +1,41 @@
-body{
+body {
     background-color: rgb(0, 14, 250);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background: url(imagem/praiadosonho.jpg);
     font-size: 30px;
     text-align: center;
 }
-.box{
+
+.box {
     background-color: rgba(140, 10, 20, 255);
 
-margin: 12px;
-padding: 20;
-border: 30px solid rgb(145, 10, 20);
-border-width: 1.2 vw;
+    margin: 12px;
+    padding: 20;
+    border: 30px solid rgb(145, 10, 20);
+    border-width: 1.2 vw;
 
 
 }
 
-img{
+img {
     border-radius: 50px;
 
 }
 
 
 
-iframe{
+iframe {
     border-radius: 40px;
 }
 
-h1{
-    color:rgb(355, 100, 200);
+h1 {
+    color: rgb(355, 100, 200);
     text-align: center;
 
 
 }
 
 
-p{
-    color:rgb(355, 100, 200);
+p {
+    color: rgb(355, 100, 200);
 }
